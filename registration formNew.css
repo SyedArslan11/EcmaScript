@@ -1,0 +1,38 @@
+
+body{
+    background-image: url(./lol\ background.jpg);
+    background-size: cover;
+}
+
+.logform{
+    background-color: rgba(0, 0, 0, 0.548);
+    text-align: center;
+    width: 300px;
+    border-radius: 20px;
+    height:400px;
+    margin: 150px auto;
+    box-shadow:  0 0 50px rgb(210, 62, 255) ;
+    border:groove  rgb(255, 36, 171)
+    
+    
+
+}
+img{
+    height: 150px;
+    margin: -90px;
+    padding-bottom: 100px;
+}
+input{
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    border-radius: 30px;
+    color:rgb(39,113,127);
+    outline: none;
+}
+.login{
+    color: rgb(194,240,255);
+    /* -webkit-text-stroke: 1.5px black; */
+    font-size: xx-large;
+    font-family: serif;
+}
